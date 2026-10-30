@@ -42,7 +42,7 @@ Bir bölgenin bütün şehirlerini tutarsan her tur ek asker alırsın. Rakibini
 | **Atlı** | 2 hak | Saldırıda +1 zar; dağda ve mızrak duvarına karşı işe yaramaz |
 | **Topçu** | 3 hak | Savunmada +1 zar; kuşatmada sur yıkar, başkent bonusunu kırar |
 
-Altınla asker alınmaz. Altın; jokerlere (50:50, +10 saniye, 2. şans), şehir yapılarına (medrese, kervansaray, tophane, burç) ve casusa harcanır.
+Altınla asker alınmaz. Altın; jokerlere (50:50, +10 saniye, 2. şans), şehir yapılarına (medrese, kervansaray, burç) ve casusa harcanır.
 
 ### Soru türleri
 - **1.300'den fazla çoktan seçmeli** ve **200'den fazla tahmin sorusu** (sayıyı en yakın tahmin eden kazanır)
@@ -61,7 +61,7 @@ Altınla asker alınmaz. Altın; jokerlere (50:50, +10 saniye, 2. şans), şehir
 | **81 İl** | 81 ilin tamamıyla uzun ve ayrıntılı savaşlar |
 | **Hızlı Oyun** | Kısa soru süresi, güçlü başlangıç orduları; yarım saatte biter |
 | **Arkadaşlarla** | Aynı bilgisayarda 2–6 kişi sırayla oynar |
-| **Görev Yarışı** | Başkent ve kale yok; görev kâğıdını ilk dolduran kazanır |
+| **Gizli Görev** | Büyük Osmanlı haritasında herkese Risk gibi gizli bir görev (bir beyliği yok et, iki eyaleti fethet...); ilk bitiren kazanır |
 | **Kampanya** | 1071 Malazgirt, 1299 Beylikten Devlete, 1453 İstanbul'un Fethi — özel hedefler ve yıldızlar |
 | **Tarihî Osmanlı Haritası** | Rumeli'den Hicaz'a 8 bölge, 59 şehir; istediğin bölgeleri seçerek oyna |
 | **Günlük Meydan Okuma** | Herkese aynı gün aynı harita ve aynı sorular; skorunu geliştir |
@@ -143,6 +143,9 @@ Kendi kendini güncelleyen **başlatıcı** (yalnız değişen dosyaları indiri
 
 **v1.0.3 · Cila ve hata avı**
 Oyun, insan gibi oynayan bir test botuyla bütün modlarda (Klasik, 81 İl, Osmanlı, Kampanya, Görev Yarışı, Arkadaşlarla, Günlük, Öğretici) ve yapay zekâ maçlarıyla baştan sona denendi; çıkan hatalar düzeltildi. Haritadaki şehir adları yeniden yerleştirildi: artık her ad kendi toprağına oturuyor, bölge yazılarının altında kalmıyor, koyu renkli topraklarda açık mürekkeple yazılıyor. Ayarlar penceresi ve savaş günlüğü yenilendi, İngilizce çevirideki eksikler tamamlandı, Mac sürümü kendini güncelliyor. Ayrıntılar [sürüm notlarında](https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases).
+
+**v1.0.4 · Gizli Görev**
+Görev Yarışı, Risk'teki gibi **Gizli Görev** moduna dönüştü: büyük Osmanlı haritasında bütün eyaletlerle başlanır, herkes tek bir gizli görev alır (bir beyliği yok et, iki eyaleti fethet, eyalet + şehir sayısı, çok şehir ve güçlü garnizon). Tophane kaldırıldı. Osmanlı haritasında eyalet adları uzaktan yaldızla okunur, yaklaşınca şehir adlarına yer açar.
 
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
