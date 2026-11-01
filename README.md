@@ -167,6 +167,9 @@ Savaşı artık ordu büyüklüğü (%50), zarlar (%35) ve savunma avantajı (%1
 **v1.2.3 · Eşit savunma ve çok oyunculu düzeltmeleri**
 Çok oyunculudaki en büyük hata giderildi: saldırıya uğrayan oyuncuya artık soru soruluyor (önceden sorulmuyor, cevabı bilgisayar veriyordu). Savunan da saldıranla aynı soruyu kendi ekranında cevaplar; doğru bilirse savunma payı %15'ten %30'a çıkar. Kural tek oyunculuda, aynı bilgisayarda ve çevrim içinde herkes için aynı. Saldırı başında kategori ekranındaki VAZGEÇ ile saldırıdan hak kaybetmeden dönülebilir. Bir kategori turda en çok 3 kez seçilebilir, sonra o tur için kilitlenir. Gizli Görev'de birbirine komşu iki eyalet fetih görevi olarak verilmez, görevler rastgele dağılır. 73 şehirlik Osmanlı haritası kalktı; Osmanlı haritası artık 50 şehir. Balkanların kuzey ve doğu kenarındaki boş topraklar (Avusturya, Slovakya, Ukrayna'nın batısı) en yakın şehirlere katıldı. Çevrim içinde mesajlar beklemeden gönderiliyor: gecikme yaklaşık 30 ms azaldı. (Yalnız Windows.)
 
+**v1.2.4 · Yeni başlatıcı**
+Başlatıcı yenilendi (başlatıcı 1.1.0, eskiler kendini günceller): yavaşça kayan arka plan, süzülen altın kıvılcımlar, başlıktan geçen ışık, güncel oyundan kareler vitrini ve hazır olunca parlayan OYNA düğmesi. Soru penceresi soru sürerken kapanırsa (bağlantı kopması gibi) oyun artık takılmıyor. (Yalnız Windows.)
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
