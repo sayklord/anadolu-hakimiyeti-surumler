@@ -158,6 +158,9 @@ Yeni mod ekranı (Tek / Çok Oyunculu → harita → savaş modu), **çevrim iç
 **v1.2.0 · Osmanlı Seferleri**
 Kampanya yeniden açıldı ve 10 bölüme çıktı: 1071 Malazgirt, 1299 Beylikten Devlete, 1402 Fetret Devri, 1453 İstanbul'un Fethi, 1514 Çaldıran ve Mısır Seferi, 1526 Mohaç, 1538 Preveze, 1683 Kutsal İttifak (dayanma bölümü), 1915 Çanakkale ve 1919 Millî Mücadele. Her bölüm yalnız olayın geçtiği topraklarda oynanır; Alparslan, Kanuni, Barbaros ve Mustafa Kemal gibi komutanlar kendi bölümlerinde ordunun başındadır. Yıldızlar zafer, hız ve yan görevle kazanılır.
 
+**v1.2.1 · Yeni savaş sistemi**
+Savaşı artık ordu büyüklüğü (%50), zarlar (%35) ve savunma avantajı (%15) belirliyor; zar bonusları ve zar kartları kaldırıldı. Soruyu bilemeyen saldıramaz, her turda en fazla 3 yanlış hakkı vardır. Yeni **Dağıtım** ayarıyla şehirler başta sorularla seçilebilir ya da kurayla dağıtılabilir (bütün modlarda, çevrim içi dahil). Eyalet harita modunda bütün bir eyaleti tutan tarafın rengi ve adı görünür. Çevrim içi oyunlarda arada sırada oyundan atılma sorunu giderildi. (Bu sürüm yalnız Windows için.)
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
