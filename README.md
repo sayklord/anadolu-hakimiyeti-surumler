@@ -161,6 +161,9 @@ Kampanya yeniden açıldı ve 10 bölüme çıktı: 1071 Malazgirt, 1299 Beylikt
 **v1.2.1 · Yeni savaş sistemi**
 Savaşı artık ordu büyüklüğü (%50), zarlar (%35) ve savunma avantajı (%15) belirliyor; zar bonusları ve zar kartları kaldırıldı. Soruyu bilemeyen saldıramaz, her turda en fazla 3 yanlış hakkı vardır. Yeni **Dağıtım** ayarıyla şehirler başta sorularla seçilebilir ya da kurayla dağıtılabilir (bütün modlarda, çevrim içi dahil). Eyalet harita modunda bütün bir eyaleti tutan tarafın rengi ve adı görünür. Çevrim içi oyunlarda arada sırada oyundan atılma sorunu giderildi. (Bu sürüm yalnız Windows için.)
 
+**v1.2.2 · Asker dağıtımı ve bekleme salonu**
+Şehirler dağıtıldıktan sonra herkes ek askerlerini (50 şehirlik haritada 2 kişide 45, 3'te 40, 4'te 35, 5'te 30; diğer haritalarda şehir sayısına göre) 1:30 içinde istediği şehirlerine yerleştirir; süre biterse kalanları bilgisayar dağıtır (kampanya hariç tüm modlar). Atlı ve topçu kalktı, oyunda yalnız piyade var: 6+ askerle kuşatınca koçbaşı kurulur, kartlar ve başarımlar piyadeye göre yenilendi, komutanlar zarsız yeni yetenekler kazandı. İttifak ve haraç kaldırıldı, soru süresi 15 saniyede sabit (ayarlardan değişmez). Çok oyunculuda yeni bekleme salonu (mod başlığı, renkli oyuncu kartları ve rütbeler, oda ayarları, salon sohbeti); oyun içi sohbet SOHBET'e basınca savaş günlüğünün yerinde açılır. Çevrim içi oyun daha akıcı: savunan artık soru beklemiyor, "saldıranın cevap vermesi bekleniyor" ekranı, bağlantı (ping) göstergesi, daha sık güncelleme ve daha erken bağlantı. Saldırı hedefleri kırmızı yerine çizgili, kampanyada ana görev ekranın üstünde, mini harita kırpılmıyor, şehir adları pencerelerin üstüne çıkmıyor, nasıl oynanır sayfaları ve ipuçları yenilendi. (Yalnız Windows.)
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
