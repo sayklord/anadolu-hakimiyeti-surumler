@@ -70,6 +70,8 @@ Altınla asker alınmaz. Altın; jokerlere (50:50, +10 saniye, 2. şans), şehir
 
 **Çok oyunculu:** 2–5 kişi, herkes kendi bilgisayarında; oda kur ya da açık odaya katıl. Toprak dağıtımı tahmin sorularıyla yapılır, sorular, cevaplar ve zarlar herkese görünür, oyun içi yazılı sohbet var. Elenen oyuncu izleyici olarak devam edebilir.
 
+**Osmanlı Seferleri:** Malazgirt'ten Millî Mücadele'ye 10 tarihî bölüm. Her bölümün kendi haritası, tarafları, tarihî komutanı, hedefi ve yan görevi var; yıldız topladıkça sıradaki bölüm açılır.
+
 **Öğretici** ve **81 İl Albümü** de mod ekranında.
 
 ## Daha fazlası
@@ -152,6 +154,9 @@ Görev Yarışı **Gizli Görev** moduna dönüştü: büyük Osmanlı haritası
 
 **v1.1.0 · Büyük güncelleme**
 Yeni mod ekranı (Tek / Çok Oyunculu → harita → savaş modu), **çevrim içi harita oyunu** (2–5 kişi), herkese görünen sorular ve zarlar, sohbet, izleyici modu. Bütün saldırılar soruyla; kırmızı saldırı ve mavi savunma zarları, ordu büyüklüğüne göre kayıp hesabı. 50 şehirlik yeni Osmanlı haritası (İtalya dahil), Kırım, yeni deniz yolları, kavisli ve okunur eyalet adları, sade kabartma ve dağlar. Mağazada yalnız joker. Uzun oturumlarda bellek sızıntıları giderildi.
+
+**v1.2.0 · Osmanlı Seferleri**
+Kampanya yeniden açıldı ve 10 bölüme çıktı: 1071 Malazgirt, 1299 Beylikten Devlete, 1402 Fetret Devri, 1453 İstanbul'un Fethi, 1514 Çaldıran ve Mısır Seferi, 1526 Mohaç, 1538 Preveze, 1683 Kutsal İttifak (dayanma bölümü), 1915 Çanakkale ve 1919 Millî Mücadele. Her bölüm yalnız olayın geçtiği topraklarda oynanır; Alparslan, Kanuni, Barbaros ve Mustafa Kemal gibi komutanlar kendi bölümlerinde ordunun başındadır. Yıldızlar zafer, hız ve yan görevle kazanılır.
 
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
