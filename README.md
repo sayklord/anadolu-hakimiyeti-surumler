@@ -170,6 +170,9 @@ Savaşı artık ordu büyüklüğü (%50), zarlar (%35) ve savunma avantajı (%1
 **v1.2.4 · Yeni başlatıcı**
 Başlatıcı yenilendi (başlatıcı 1.1.0, eskiler kendini günceller): yavaşça kayan arka plan, süzülen altın kıvılcımlar, başlıktan geçen ışık, güncel oyundan kareler vitrini ve hazır olunca parlayan OYNA düğmesi. Soru penceresi soru sürerken kapanırsa (bağlantı kopması gibi) oyun artık takılmıyor. (Yalnız Windows.)
 
+**v1.2.5 · Sunucu seçimi**
+Çevrim içi oda kurulurken bütün Unity sunucuları ölçülür ve en düşük gecikmeli olan seçilir (ölçüm yapılamazsa Varşova). Farklı bölgelerden oynayanlar da kendilerine en yakın sunucuya bağlanır. (Yalnız Windows.)
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
