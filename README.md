@@ -184,6 +184,9 @@ Saldırı soruları rastgele kategoriden gelir; KATEGORİ JOKERİ ile alanı sen
 **v1.5.1 · En yakın tahmin kazanır**
 Savaştaki tahmin sorusunda rakip de tahmin eder, cevaba kim daha yakınsa o kazanır. Saldırı okları kesik ve kırmızı; kartla asker koyarken hedefler altınla parlar ve gelen asker gösterilir; asker kaydırırken ekranı kesen düz çizgi kalktı. Windows ve Mac.
 
+**v1.6.0 · Günün sorusu, tekrar izleme ve yeni haritalar**
+Savaştaki tahmin sorusunda savunan da tahmin eder; herkes kimin ne dediğini ve kimin daha yakın olduğunu sonuç tablosunda görür. Haritada bul soruları kalktı. Kış oyunu etkiler: karlı doğu ve dağ şehirlerinde savunana +1, kışın fırtına deniz yollarını kapatır. Çevrim içi hızlı sohbet düğmeleri, oyun sonunda seferin 30 saniyelik tekrarı, ana menüde günün sorusu (doğru bilene +10 altın), başkent sancağında unvan. Kampanya ekranı yenilendi: arkada Fatih Sultan Mehmed resmi, önde görevler. Osmanlı haritasında Kırım kalktı, Macaristan sınırları tarihe uygun hâle geldi ve Eğri ayrı eyalet oldu. Türkiye için üç harita: 39, 60 ve 81 şehir. Windows ve Mac.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
