@@ -199,6 +199,12 @@ Sefer hikâyesi artık deri kapaklı, yaldız süslü açık bir kitapta anlatı
 **v1.9.0 · Akdeniz ve Avrupa 1200**
 Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Kafkasya'ya 1200 yılı dolayında Avrupa ve Akdeniz. İki boyu var: 27 bölgede 117 şehir ya da komşu şehirleri birleştirilmiş, cepheleri geniş 52 şehir (12 bölge). 117 şehirlik haritada bölüm seçerek de oynanır: Haçlı Seferleri, Batı Akdeniz, Avrupa, Doğu Avrupa, Akdeniz Kıyıları ya da kendi seçtiğin bölgeler. Şehir sınırları gerçek il sınırlarından çizildi; Manş, Cebelitarık, Messina, Ege ve Kırım deniz yolları, haritaya özel ticaret yolları (İpek Yolu, Kehribar Yolu, Hansa Yolu, Hac Yolu ve dahası) ve yeni yükseklik verisiyle Alpler'den Kafkaslar'a 3B arazi. Yeni sefer dizisi HAÇLILAR VE SULTANLAR: 1187 Hıttin ve Kudüs, 1212 Endülüs'ün Kapısı ve 1225 Alaeddin Keykubad. Windows ve Mac.
 
+### 1.10.0
+- Haçlılar ve Sultanlar dizisine 5 yeni bölüm: 1097 Birinci Haçlı, 1204 Dördüncü Haçlı, 1241 Moğol akını, 1260 Ayn Câlût, 1291 Akka'nın düşüşü.
+- Her sefer dizisine ayrı resim, tek oyunculu kartına kendi resmi.
+- Seferlerde tarihî devlet renkleri (Bizans mor, Selçuklu turkuaz...).
+- Avrupa'ya 3B ünlü yapılar (Kolezyum, Londra Kulesi, Venedik...).
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
