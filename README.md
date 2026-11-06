@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/latest/download/AnadoluHakimiyeti_Kurulum.exe"><b>⬇️ Windows için indir</b></a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/download/v1.2.0/AnadoluHakimiyeti_Mac.zip"><b>⬇️ Mac için indir (1.2.0)</b></a>
+  <a href="https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/latest/download/AnadoluHakimiyeti_Mac.zip"><b>⬇️ Mac için indir</b></a>
   &nbsp;•&nbsp;
   <a href="https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases">Sürüm notları</a>
 </p>
@@ -97,9 +97,7 @@ Oyunu her zaman masaüstündeki simgeden aç: **başlatıcı** yeni sürümü ke
 <p align="center"><img src="docs/baslatici.png" alt="Başlatıcı" width="80%"></p>
 
 ### Mac
-Mac sürümü şimdilik **1.2.0**'da kaldı; yeni sürümler yalnız Windows için.
-
-1. **[AnadoluHakimiyeti_Mac.zip](https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/download/v1.2.0/AnadoluHakimiyeti_Mac.zip)** dosyasını indir ve aç; çıkan **Anadolu Hakimiyeti** uygulamasını **Uygulamalar** (Applications) klasörüne sürükle.
+1. **[AnadoluHakimiyeti_Mac.zip](https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/latest/download/AnadoluHakimiyeti_Mac.zip)** dosyasını indir ve aç; çıkan **Anadolu Hakimiyeti** uygulamasını **Uygulamalar** (Applications) klasörüne sürükle.
 2. Mac, internetten inen imzasız oyunları ilk açılışta engeller ("hasarlı" ya da "açılamıyor" der). Bir kereliğine **Terminal**'i aç, şunu yapıştırıp Enter'a bas:
    ```
    xattr -cr "/Applications/Anadolu Hakimiyeti.app"
@@ -178,7 +176,7 @@ Başlatıcı yenilendi (başlatıcı 1.1.0, eskiler kendini günceller): yavaş�
 Savaş tam Risk kurallarıyla: saldıran 1–3, savunan 1–2 zar; zar sayısını saldıran seçer, her atıştan önce ZAR AT, AKINCI ya da GERİ ÇEK. Yeni takviye hesabı, ilk turda takviye yok; komutanlar ve şehir yapıları kalktı. Çevrim içinde tur süresi ve duraklatma, asker yerleştirmede GERİ AL, Gizli Görev'de otomatik dağıtım. (Yalnız Windows.)
 
 **v1.4.0 · Devrim güncellemesi**
-Harita baştan yenilendi: sulu boya siyasi harita, koyu mürekkep sınırlar, kavisli beylik adları, sade asker rozetleri ve ekranı dolduran görünüm. Yaklaşınca canlı 3B arazi: gerçek yükseklik verisiyle dağlar ve vadiler, ormanlar, kum tepeleri, gerçek güneş, yumuşak gölge, dağ sisi; daha ayrıntılı şehirler, kaleler, ünlü yapılar ve gemiler. Savaş 3B oldu: haritaya atılan zarlar, sancaklı ordular, kavisli saldırı okları, fetih sancağı, yıkılan başkent ve kapıya vuran koçbaşı. Canlı 3B taht odasında yeni ana menü, harita tarzında oyun içi arayüz ve pencereler; şamdan alevi, günün saatine göre ışık, mevsimler, kervanlar, sinematik açılış ve fermanla zafer sahnesi, fotoğraf modu. Soruyu gördükten sonra GERİ ÇIK (oyun başına 3), çift ya da hiç kalktı. (Yalnız Windows.)
+Harita baştan yenilendi: sulu boya siyasi harita, koyu mürekkep sınırlar, kavisli beylik adları, sade asker rozetleri ve ekranı dolduran görünüm. Yaklaşınca canlı 3B arazi: gerçek yükseklik verisiyle dağlar ve vadiler, ormanlar, kum tepeleri, gerçek güneş, yumuşak gölge, dağ sisi; daha ayrıntılı şehirler, kaleler, ünlü yapılar ve gemiler. Savaş 3B oldu: haritaya atılan zarlar, sancaklı ordular, kavisli saldırı okları, fetih sancağı, yıkılan başkent ve kapıya vuran koçbaşı. Canlı 3B taht odasında yeni ana menü, harita tarzında oyun içi arayüz ve pencereler; şamdan alevi, günün saatine göre ışık, mevsimler, kervanlar, sinematik açılış ve fermanla zafer sahnesi, fotoğraf modu. Soruyu gördükten sonra GERİ ÇIK (oyun başına 3), çift ya da hiç kalktı. Mac sürümü yeniden güncel.
 
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
