@@ -196,6 +196,9 @@ Diplomasi geri döndü (kurulumda Açık / Kapalı): üst çubuktaki DİPLOMASİ
 **v1.8.1 · Yeni sefer kitabı**
 Sefer hikâyesi artık deri kapaklı, yaldız süslü açık bir kitapta anlatılıyor: el yazması sayfa çerçeveleri, kırmızı süslü ilk harf, ipek ayraç ve sırttan dönen sayfa. Tarihî olaylar mühürlü bir ferman olarak gelir. Haritadaki KAFKASYA yazısı artık şehir adlarının üstünden dikine geçmiyor, sağ üstteki beylik panelinin altında da kalmıyor. Windows ve Mac.
 
+**v1.9.0 · Akdeniz ve Avrupa 1200**
+Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Kafkasya'ya 1200 yılı dolayında Avrupa ve Akdeniz. İki boyu var: 27 bölgede 117 şehir ya da komşu şehirleri birleştirilmiş, cepheleri geniş 52 şehir (12 bölge). 117 şehirlik haritada bölüm seçerek de oynanır: Haçlı Seferleri, Batı Akdeniz, Avrupa, Doğu Avrupa, Akdeniz Kıyıları ya da kendi seçtiğin bölgeler. Şehir sınırları gerçek il sınırlarından çizildi; Manş, Cebelitarık, Messina, Ege ve Kırım deniz yolları, haritaya özel ticaret yolları (İpek Yolu, Kehribar Yolu, Hansa Yolu, Hac Yolu ve dahası) ve yeni yükseklik verisiyle Alpler'den Kafkaslar'a 3B arazi. Yeni sefer dizisi HAÇLILAR VE SULTANLAR: 1187 Hıttin ve Kudüs, 1212 Endülüs'ün Kapısı ve 1225 Alaeddin Keykubad. Windows ve Mac.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
