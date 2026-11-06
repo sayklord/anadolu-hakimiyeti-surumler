@@ -187,6 +187,9 @@ Savaştaki tahmin sorusunda rakip de tahmin eder, cevaba kim daha yakınsa o kaz
 **v1.6.0 · Günün sorusu, tekrar izleme ve yeni haritalar**
 Savaştaki tahmin sorusunda savunan da tahmin eder; herkes kimin ne dediğini ve kimin daha yakın olduğunu sonuç tablosunda görür. Haritada bul soruları kalktı. Kış oyunu etkiler: karlı doğu ve dağ şehirlerinde savunana +1, kışın fırtına deniz yollarını kapatır. Çevrim içi hızlı sohbet düğmeleri, oyun sonunda seferin 30 saniyelik tekrarı, ana menüde günün sorusu (doğru bilene +10 altın), başkent sancağında unvan. Kampanya ekranı yenilendi: arkada Fatih Sultan Mehmed resmi, önde görevler. Osmanlı haritasında Kırım kalktı, Macaristan sınırları tarihe uygun hâle geldi ve Eğri ayrı eyalet oldu. Türkiye için üç harita: 39, 60 ve 81 şehir. Windows ve Mac.
 
+**v1.6.1 · Türkiye haritası tek düğmede**
+Harita seçiminde tek TÜRKİYE düğmesi var; basınca altında kaç şehirle oynanacağı seçilir: 39, 60 ya da 81. 60 şehirlik haritada başka ile katılan illerin ünlü yapıları ana şehirde durur (Kastamonu'da Safranbolu evleri, Tokat'ta Amasya kral mezarları, Niğde'de Aksaray kervansarayı); şehir sorularında katılan illerin bilgileri de gelir. Windows ve Mac.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
