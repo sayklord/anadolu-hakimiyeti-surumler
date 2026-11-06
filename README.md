@@ -193,6 +193,9 @@ Harita seçiminde tek TÜRKİYE düğmesi var; basınca altında kaç şehirle o
 **v1.8.0 · Diplomasi ve tarihî seferler**
 Diplomasi geri döndü (kurulumda Açık / Kapalı): üst çubuktaki DİPLOMASİ düğmesiyle kendi turunda elçi gönderip Saldırmazlık, İttifak, Ateşkes ya da Haraç antlaşması yaparsın. Antlaşmayı bozup saldıran 8 tur "Sözünü tutmayan" damgası alır, savunan ilk savaşta en yüksek zarına +1 alır. Haraç yalnız altındır; altınla asker alınmaz. Beylikler arasında güven ve Dost / Tarafsız / Düşman ilişkisi var; yapay zekâ kişiliğine göre teklif yapar ve cevaplar, önde gidene karşı birleşir. Antlaşmalar haritada mühürle, yan panelde ve savaş günlüğünde görünür, kayda girer ve çevrim içinde de çalışır; son iki beylik kalınca bütün antlaşmalar dağılır. Tarihî seferler iki diziye ayrıldı: SELÇUKLU VE BEYLİKLER ve OSMANLI SEFERLERİ. Sekiz yeni bölüm: Miryokefalon, Kösedağ, Kosova, Niğbolu, Ankara Savaşı, Varna, Otlukbeli ve Belgrad. Bölüm başında ve sonunda sayfası çevrilen hikâye kitabı, "Tarihte ne oldu?" notları, belli turlarda gelen tarihî olaylar (saf değiştiren beylikler, bozulan antlaşmalar, gelen elçiler) ve başlangıç antlaşmaları. Sefer ekranında zaman çizgisi; dizi tamamlanınca unvan. Millî Mücadele bölümü 81 illik haritada, Ankara Savaşı 60 şehirlik haritada oynanır. Windows ve Mac.
 
+**v1.8.1 · Yeni sefer kitabı**
+Sefer hikâyesi artık deri kapaklı, yaldız süslü açık bir kitapta anlatılıyor: el yazması sayfa çerçeveleri, kırmızı süslü ilk harf, ipek ayraç ve sırttan dönen sayfa. Tarihî olaylar mühürlü bir ferman olarak gelir. Haritadaki KAFKASYA yazısı artık şehir adlarının üstünden dikine geçmiyor, sağ üstteki beylik panelinin altında da kalmıyor. Windows ve Mac.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
