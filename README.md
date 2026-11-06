@@ -181,6 +181,9 @@ Harita baştan yenilendi: sulu boya siyasi harita, koyu mürekkep sınırlar, ka
 **v1.5.0 · Rastgele sorular ve çevrim içi oda**
 Saldırı soruları rastgele kategoriden gelir; KATEGORİ JOKERİ ile alanı sen seçersin (oyun başına 3, mağazada 35 altın). Savaşta tahmin soruları sıklaştı, rakam çarkıyla ya da klavyeyle cevaplanır; sorular bir tık zorlaştı. Jokerlerde terazi, kum saati ve tespih simgeleri ve canlandırmaları, soru açılırken açılan parşömen, daha okunaklı soru şeritleri. Çevrim içi: HAZIRIM düğmesi, ev sahibi oyuncu atabilir, tur süresi seçimi (45/60/90/120 sn) ve oyun sonunda RÖVANŞ. Windows ve Mac.
 
+**v1.5.1 · En yakın tahmin kazanır**
+Savaştaki tahmin sorusunda rakip de tahmin eder, cevaba kim daha yakınsa o kazanır. Saldırı okları kesik ve kırmızı; kartla asker koyarken hedefler altınla parlar ve gelen asker gösterilir; asker kaydırırken ekranı kesen düz çizgi kalktı. Windows ve Mac.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
