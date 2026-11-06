@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/latest/download/AnadoluHakimiyeti_Kurulum.exe"><b>⬇️ Windows için indir</b></a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/latest/download/AnadoluHakimiyeti_Mac.zip"><b>⬇️ Mac için indir</b></a>
+  <a href="https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/download/v1.2.0/AnadoluHakimiyeti_Mac.zip"><b>⬇️ Mac için indir (1.2.0)</b></a>
   &nbsp;•&nbsp;
   <a href="https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases">Sürüm notları</a>
 </p>
@@ -17,40 +17,37 @@
 
 ## Oyun nedir?
 
-Anadolu Hakimiyeti, klasik "dünyayı fethet" masa oyunlarının stratejisini bir **bilgi yarışmasıyla** birleştirir. Haritada şehir şehir ilerlersin, ama her savaşta zarlardan önce bir **soru** gelir: doğru bilirsen ordun güçlenir, bilemezsen rakibin öne geçer. Coğrafya, tarih, kültür, plaka, yöresel yemekler, ünlü yapılar… Türkiye'yi ne kadar iyi tanırsan o kadar çok toprak kazanırsın.
+Anadolu Hakimiyeti, klasik "dünyayı fethet" masa oyunlarının stratejisini bir **bilgi yarışmasıyla** birleştirir. Haritada şehir şehir ilerlersin, ama her saldırıdan önce bir **soru** gelir: bilirsen zarlar atılır, bilemezsen saldırı yapılmaz. Coğrafya, tarih, kültür, plaka, yöresel yemekler, ünlü yapılar… Türkiye'yi ve Osmanlı topraklarını ne kadar iyi tanırsan o kadar çok toprak kazanırsın.
 
-Oyun bir **komuta masasında** geçer: yeşil mermer masa, İznik çinileri, bordo kadife örtü, şamdanlar, Osmanlı kılıcı ve tuğralı fermanlar arasında, parşömen bir harita üzerinde savaşırsın.
+Oyun bir **taht odasındaki komuta masasında** başlar; savaş, ekranı dolduran **sulu boya siyasi haritada** geçer. Uzaktan bakınca mürekkep sınırlı, kavisli beylik adlı eski bir harita; yaklaşınca gerçek yükseklik verisiyle yontulmuş dağlar, ormanlar, kum tepeleri, 3B şehirler, kaleler, ünlü yapılar, kervanlar ve gemiler.
 
-<p align="center"><img src="docs/harita.jpg" alt="Komuta masasında harita" width="100%"></p>
+<p align="center"><img src="docs/harita.jpg" alt="Sulu boya siyasi harita" width="100%"></p>
 
 ## Nasıl oynanır?
 
 Her tur üç evreden oluşur:
 
-1. **Takviye** — Her tur yeni asker hakkı kazanırsın (şehir sayına ve tuttuğun bölgelere göre). Bunları şehirlerine yerleştirirsin.
-2. **Saldırı** — En az 2 askerli bir şehrinden komşu düşman şehrine saldırırsın. Savaş penceresinde önce soru, sonra zarlar gelir. Her tur 2 saldırı hakkın vardır; fethettiğin her şehir hakkını geri verir.
-3. **Kaydırma** — Turu bitirmeden önce askerlerini komşu şehirlerine kaydırabilirsin.
+1. **Takviye** — 1–11 şehrin varsa 3 asker, daha fazlaysa şehir sayının üçte biri; bütün bir eyaleti tutarsan ek asker, kart takasıyla daha fazlası. İlk turda kimse takviye almaz.
+2. **Saldırı** — En az 2 askerli şehrinden, **okla gösterilen** komşu şehre saldırırsın. Önce soru gelir; bilirsen **Risk zarları** atılır: saldıran 1, 2 ya da 3 zar seçer, savunan 1 ya da 2 zarla karşılar, en yüksek zarlar karşılaştırılır. Her atıştan önce **ZAR AT**, **AKINCI** (hızlı) ya da **GERİ ÇEK**. Her tur 2 saldırı hakkın var; fetih hakkı geri verir. Soruyu gördükten sonra **GERİ ÇIK** ile oyun başına 3 kez, hak kaybetmeden vazgeçebilirsin.
+3. **Kaydırma** — Turu bitirmeden askerlerini bağlı kendi şehirlerine kaydırırsın.
 
-Bir bölgenin bütün şehirlerini tutarsan her tur ek asker alırsın. Rakibinin **başkentini** düşürmek için önce **surlarını** kuşatmayla yıkman gerekir.
+Rakibinin **başkentini** düşürmek için önce **surlarını** kuşatmayla yıkman gerekir: 3 soruluk kuşatmada sen bilir, savunan bilemezse bir sur yıkılır; 6+ askerle kuşatırsan **koçbaşı** kurulur, savunan bilse bile sur yıkılır.
 
-<p align="center"><img src="docs/soru.jpg" alt="Soru ekranı" width="100%"></p>
+Altınla asker alınmaz. Altın yalnız jokerlere (50:50, +10 saniye, 2. şans) harcanır.
 
-### Birlikler
-| Birlik | Takviye bedeli | Özelliği |
-|---|---|---|
-| **Piyade** | 1 hak | Temel asker; 3 ve üstü piyade "mızrak duvarı" kurar, atlıyı durdurur |
-| **Atlı** | 2 hak | Saldırıda +1 zar; dağda ve mızrak duvarına karşı işe yaramaz |
-| **Topçu** | 3 hak | Savunmada +1 zar; kuşatmada sur yıkar, başkent bonusunu kırar |
-
-Altınla asker alınmaz. Altın; jokerlere (50:50, +10 saniye, 2. şans), şehir yapılarına (medrese, kervansaray, burç) ve casusa harcanır.
+<p align="center"><img src="docs/soru.jpg" alt="Soru penceresi" width="100%"></p>
 
 ### Soru türleri
-- **1.300'den fazla çoktan seçmeli** ve **200'den fazla tahmin sorusu** (sayıyı en yakın tahmin eden kazanır)
+- **1.500'den fazla soru**: çoktan seçmeli ve tahmin soruları (sayıyı en yakın tahmin eden kazanır)
 - Saldırdığın **şehre özel sorular**: ünlü yapısı, yemeği, tarihi
 - **Haritada bul**, **sıralama**, **il silüeti** soruları
 - Kendi soru paketini yükleyebilirsin (öğretmenler için "yalnız paket soruları" seçeneği)
 
-<p align="center"><img src="docs/savas.jpg" alt="Savaş penceresi" width="100%"></p>
+## 3B savaş
+
+Zarlar haritanın üstüne, iki şehrin arasına atılır; iki yanda sancaklı 3B bölükler çarpışır, her atışta kaybeden askerler devrilir. Fetihte şehre sancak dikilir, başkent düşerken taşlar ve toz savrulur, kuşatmada koçbaşı kapıya vurur. Ayarlardan **3B Animasyonlar: Tam / Kısa / Kapalı** ve **Grafik kalitesi** seçilebilir.
+
+<p align="center"><img src="docs/savas.jpg" alt="Kuşatmada koçbaşı" width="100%"></p>
 
 ## Oyun modları
 
@@ -58,8 +55,7 @@ Altınla asker alınmaz. Altın; jokerlere (50:50, +10 saniye, 2. şans), şehir
 
 | Harita | Açıklama |
 |---|---|
-| **Osmanlı • 73** | Ana harita: Rumeli'den Hicaz'a, Kırım'dan Garp Ocakları'na 73 şehir |
-| **Osmanlı • 50** | Aynı topraklar 50 şehirde; eyaletler birleşti, İtalya eklendi |
+| **Osmanlı • 50** | Ana harita: Rumeli'den Hicaz'a, Kırım'dan Garp Ocakları'na, İtalya dahil 50 şehir |
 | **81 İl** | Türkiye'nin 81 ili, 7 bölge (tek oyunculu) |
 
 | Savaş modu | Açıklama |
@@ -68,21 +64,24 @@ Altınla asker alınmaz. Altın; jokerlere (50:50, +10 saniye, 2. şans), şehir
 | **Düz Çarpışma** | Kale, sur ve kuşatma yok; yalnız ordular çarpışır |
 | **Gizli Görev** | Toprak dağıtımından sonra herkese gizli bir görev; tur sınırı yok, ilk bitiren kazanır |
 
-**Çok oyunculu:** 2–5 kişi, herkes kendi bilgisayarında; oda kur ya da açık odaya katıl. Toprak dağıtımı tahmin sorularıyla yapılır, sorular, cevaplar ve zarlar herkese görünür, oyun içi yazılı sohbet var. Elenen oyuncu izleyici olarak devam edebilir.
+Şehirler başta tahmin sorularıyla seçilir ya da kurayla dağıtılır; sonra herkes ek askerlerini 90 saniye içinde yerleştirir (yanlış koyduğunu **GERİ AL** ile alırsın).
 
-**Osmanlı Seferleri:** Malazgirt'ten Millî Mücadele'ye 10 tarihî bölüm. Her bölümün kendi haritası, tarafları, tarihî komutanı, hedefi ve yan görevi var; yıldız topladıkça sıradaki bölüm açılır.
+**Çok oyunculu:** 2–5 kişi, herkes kendi bilgisayarında; oda kur ya da açık odaya katıl. Sorular, cevaplar ve zarlar herkese görünür, saldırıya uğrayan da aynı soruyu kendi ekranında cevaplar. Oyun içi sohbet, tur süresi, oyun başına bir kez 60 saniyelik duraklatma; elenen oyuncu izleyici olarak devam edebilir.
 
-**Öğretici** ve **81 İl Albümü** de mod ekranında.
+**Osmanlı Seferleri:** Malazgirt'ten Millî Mücadele'ye 10 tarihî bölüm. Her bölümün kendi haritası, tarafları, hedefi ve yan görevi var; yıldız topladıkça sıradaki bölüm açılır.
+
+**Öğretici**, **Günlük Meydan Okuma**, **takvim etkinlikleri** ve **81 İl Albümü** de var.
 
 ## Daha fazlası
 - **Yapay zekâ kişilikleri**: Akıncı, Kaleci, Tüccar, Fırsatçı ve Dengeli beylikler farklı oynar; öne geçene karşı birleşirler
-- **Kartlar**: 20'den fazla kart (Piri Reis, Kahraman Komutan, Barış Elçisi…), set takası
-- **Komutanlar**, **diplomasi** (ittifak, haraç, ihanet), **mevsimler** (kışın karlı geçitler), **olay kartları** (bereket yılı, fırtına, kıtlık)
+- **Kartlar** (Piri Reis, Hızlı Akın…) ve set takası; **olay kartları** (fırtına, veba, deprem, korsanlar) haritada 3B efektlerle
+- **Mevsimler** (kışın kar örtüsü kuzeyden yayılır) ve günün saatine göre ışık
 - **Ticaret yolları**: İpek Yolu, Kral Yolu, Baharat Yolu… tamamını tutana her tur altın
-- **81 İl Albümü**: fethettiğin her il albüme eklenir, "Biliyor muydun?" bilgileriyle
-- **56 başarım**, unvanlar (Nefer'den Sadrazam'a) ve unvanla açılan sancak nakışları
-- Maç sonunda **sefer özeti**: tur tur şehir grafiği, kategori başarın, öne çıkan anlar
-- **Türkçe ve İngilizce** dil desteği, renk körü desenleri, 3 kayıt yuvası ve otomatik yedek
+- **81 İl Albümü**: sahip olduğun her il albüme eklenir, "Biliyor muydun?" bilgileriyle
+- Başarımlar, unvanlar (Nefer'den Sadrazam'a) ve unvanla açılan sancak nakışları
+- Maç sonunda **sefer özeti** ve fermanla mühürlenen **zafer sahnesi**
+- **Fotoğraf modu** (P tuşu): arayüz gizlenir, kamera serbest
+- **Türkçe ve İngilizce**, renk körü desenleri, 3 kayıt yuvası ve otomatik yedek
 
 ---
 
@@ -98,7 +97,9 @@ Oyunu her zaman masaüstündeki simgeden aç: **başlatıcı** yeni sürümü ke
 <p align="center"><img src="docs/baslatici.png" alt="Başlatıcı" width="80%"></p>
 
 ### Mac
-1. **[AnadoluHakimiyeti_Mac.zip](https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/latest/download/AnadoluHakimiyeti_Mac.zip)** dosyasını indir ve aç; çıkan **Anadolu Hakimiyeti** uygulamasını **Uygulamalar** (Applications) klasörüne sürükle.
+Mac sürümü şimdilik **1.2.0**'da kaldı; yeni sürümler yalnız Windows için.
+
+1. **[AnadoluHakimiyeti_Mac.zip](https://github.com/sayklord/anadolu-hakimiyeti-surumler/releases/download/v1.2.0/AnadoluHakimiyeti_Mac.zip)** dosyasını indir ve aç; çıkan **Anadolu Hakimiyeti** uygulamasını **Uygulamalar** (Applications) klasörüne sürükle.
 2. Mac, internetten inen imzasız oyunları ilk açılışta engeller ("hasarlı" ya da "açılamıyor" der). Bir kereliğine **Terminal**'i aç, şunu yapıştırıp Enter'a bas:
    ```
    xattr -cr "/Applications/Anadolu Hakimiyeti.app"
@@ -118,7 +119,7 @@ APP=$(find ~/Downloads ~/Desktop -maxdepth 3 -name "Anadolu Hakimiyeti.app" -pri
 
 ## Geliştirme süreci
 
-Oyun **Unity 6** ile geliştiriliyor. Sahne boştur: harita, arayüz, 3B şehirler, komuta masası ve efektlerin hepsi kodla kurulur. Harita gerçek il sınırlarından (Natural Earth verisi) üretilir; arayüz dokuları, ikonlar ve menü resmi de kodla çizilir.
+Oyun **Unity 6** ile geliştiriliyor. Sahne boştur: harita, arayüz, 3B şehirler, taht odası ve efektlerin hepsi kodla kurulur. Harita gerçek il sınırlarından (Natural Earth) ve gerçek yükseklik verisinden (NOAA ETOPO 2022) üretilir; arayüz dokuları, ikonlar ve 3B modeller de kodla çizilir.
 
 ### Yol haritası
 
@@ -173,6 +174,12 @@ Başlatıcı yenilendi (başlatıcı 1.1.0, eskiler kendini günceller): yavaş�
 **v1.2.5 · Sunucu seçimi**
 Çevrim içi oda kurulurken bütün Unity sunucuları ölçülür ve en düşük gecikmeli olan seçilir (ölçüm yapılamazsa Varşova). Farklı bölgelerden oynayanlar da kendilerine en yakın sunucuya bağlanır. (Yalnız Windows.)
 
+**v1.3.0 – v1.3.2 · Risk kuralları**
+Savaş tam Risk kurallarıyla: saldıran 1–3, savunan 1–2 zar; zar sayısını saldıran seçer, her atıştan önce ZAR AT, AKINCI ya da GERİ ÇEK. Yeni takviye hesabı, ilk turda takviye yok; komutanlar ve şehir yapıları kalktı. Çevrim içinde tur süresi ve duraklatma, asker yerleştirmede GERİ AL, Gizli Görev'de otomatik dağıtım. (Yalnız Windows.)
+
+**v1.4.0 · Devrim güncellemesi**
+Harita baştan yenilendi: sulu boya siyasi harita, koyu mürekkep sınırlar, kavisli beylik adları, sade asker rozetleri ve ekranı dolduran görünüm. Yaklaşınca canlı 3B arazi: gerçek yükseklik verisiyle dağlar ve vadiler, ormanlar, kum tepeleri, gerçek güneş, yumuşak gölge, dağ sisi; daha ayrıntılı şehirler, kaleler, ünlü yapılar ve gemiler. Savaş 3B oldu: haritaya atılan zarlar, sancaklı ordular, kavisli saldırı okları, fetih sancağı, yıkılan başkent ve kapıya vuran koçbaşı. Canlı 3B taht odasında yeni ana menü, harita tarzında oyun içi arayüz ve pencereler; şamdan alevi, günün saatine göre ışık, mevsimler, kervanlar, sinematik açılış ve fermanla zafer sahnesi, fotoğraf modu. Soruyu gördükten sonra GERİ ÇIK (oyun başına 3), çift ya da hiç kalktı. (Yalnız Windows.)
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
@@ -184,5 +191,6 @@ Başlatıcı yenilendi (başlatıcı 1.1.0, eskiler kendini günceller): yavaş�
 - Ses efektleri: **Kenney** ve **artisticdude** — CC0
 - Yazı tipi: **Cinzel** — SIL Open Font License 1.1
 - Harita verisi: **Natural Earth** — kamu malı
+- Yükseklik verisi: **NOAA ETOPO 2022** — kamu malı
 
 <sub>Bu depoda yalnız oyunun derlenmiş sürümleri durur.</sub>
