@@ -178,6 +178,9 @@ Savaş tam Risk kurallarıyla: saldıran 1–3, savunan 1–2 zar; zar sayısın
 **v1.4.0 · Devrim güncellemesi**
 Harita baştan yenilendi: sulu boya siyasi harita, koyu mürekkep sınırlar, kavisli beylik adları, sade asker rozetleri ve ekranı dolduran görünüm. Yaklaşınca canlı 3B arazi: gerçek yükseklik verisiyle dağlar ve vadiler, ormanlar, kum tepeleri, gerçek güneş, yumuşak gölge, dağ sisi; daha ayrıntılı şehirler, kaleler, ünlü yapılar ve gemiler. Savaş 3B oldu: haritaya atılan zarlar, sancaklı ordular, kavisli saldırı okları, fetih sancağı, yıkılan başkent ve kapıya vuran koçbaşı. Canlı 3B taht odasında yeni ana menü, harita tarzında oyun içi arayüz ve pencereler; şamdan alevi, günün saatine göre ışık, mevsimler, kervanlar, sinematik açılış ve fermanla zafer sahnesi, fotoğraf modu. Soruyu gördükten sonra GERİ ÇIK (oyun başına 3), çift ya da hiç kalktı. Mac sürümü yeniden güncel.
 
+**v1.5.0 · Rastgele sorular ve çevrim içi oda**
+Saldırı soruları rastgele kategoriden gelir; KATEGORİ JOKERİ ile alanı sen seçersin (oyun başına 3, mağazada 35 altın). Savaşta tahmin soruları sıklaştı, rakam çarkıyla ya da klavyeyle cevaplanır; sorular bir tık zorlaştı. Jokerlerde terazi, kum saati ve tespih simgeleri ve canlandırmaları, soru açılırken açılan parşömen, daha okunaklı soru şeritleri. Çevrim içi: HAZIRIM düğmesi, ev sahibi oyuncu atabilir, tur süresi seçimi (45/60/90/120 sn) ve oyun sonunda RÖVANŞ. Windows ve Mac.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
