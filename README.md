@@ -205,6 +205,13 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - Seferlerde tarihî devlet renkleri (Bizans mor, Selçuklu turkuaz...).
 - Avrupa'ya 3B ünlü yapılar (Kolezyum, Londra Kulesi, Venedik...).
 
+### 1.11.0
+- Sefer dizileri yeniden düzenlendi: **Selçuklu**, **Osmanlı** (beylikler, Niğbolu, Ankara Savaşı dahil), **Haçlı Seferleri**, **Endülüs ve Reconquista**, **Moğol İstilası**.
+- 5 yeni bölüm: 711 Endülüs'ün fethi, 1086 Zallaka, 1492 Gırnata'nın sonu, 1258 Bağdat'ın düşüşü, 1191 Üçüncü Haçlı Seferi.
+- Seferlerde devlet sınırı kalktı: haritada o yılın bütün tarihî devletleri var (1225 haritasında 24 devlet), boş arazi kalmadı.
+- Seferlerde asker dağıtım ekranı yok; her devlet askerlerini kendiliğinden sınırlarına yerleştirir.
+- Endülüs ve Moğol dizilerine yeni resimler.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
