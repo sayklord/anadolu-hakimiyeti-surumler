@@ -221,6 +221,15 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.14.0
+- **12 yeni sefer dizisi, 45 yeni bölüm** (her biri kendi resmiyle): Emevî Fetihleri, Charlemagne, Vikingler, Bizans ve Bulgar Savaşları, Normanlar, Barbarossa ve Kutsal Roma, Memlûk Sultanlığı, Baltık Haçlıları, Yüz Yıl Savaşları, Altın Orda, Akkoyunlu ve Karakoyunlu, Kırım Hanlığı. Artık 17 dizide 79 bölüm var (636 Yermük'ten 1919'a).
+- **Tarihsel Çizgi:** yatay, kaydırılan bir zaman çizgisi: her sefer dizisi kendi renginde bir şerit, bölümler yıllarına göre madalyonlar; üstte çağ bantlı yıl cetveli ve bütün çizginin özeti, altta seçilen bölümün kartı ve SEFERİ AÇ. Tekerlek, sürükleme ve ok tuşlarıyla kayar.
+- Yeni bölümlerin hepsinde Kader Zarı olayı ve tarihî devlet renkleri.
+- **Yükleme 9 saniyeden ~4 saniyeye indi:** harita katmanları sen sefer ekranındayken arka planda hazırlanır.
+- **Çevrim içi Akdeniz:** çok oyunculu savaşta Akdeniz 1200 haritası da seçilebilir.
+- Çok devletli bölümlerde sağdaki devlet şeridi iki sütun; sana komşu olmayan uzak devletlerin turu kendiliğinden hızlı geçer.
+- Akdeniz haritasında bölge adları şehir adlarını örtmüyor; Endülüs bölümleri biraz zorlaştı.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
