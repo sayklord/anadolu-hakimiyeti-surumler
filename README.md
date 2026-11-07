@@ -212,6 +212,9 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - Seferlerde asker dağıtım ekranı yok; her devlet askerlerini kendiliğinden sınırlarına yerleştirir.
 - Endülüs ve Moğol dizilerine yeni resimler.
 
+### 1.12.0
+- **Kader Zarı:** her sefer bölümünde (31 bölüm) bir kez seçimli olay gelir: güvenli yolu seçersin (küçük ama kesin kazanç) ya da tek zar atarsın. Zar tutarsa baskın, kuşatma, elçi, takviye ya da kervan büyük kazanç getirir; tutmazsa kayıp verirsin.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
