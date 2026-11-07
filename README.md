@@ -215,6 +215,12 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 ### 1.12.0
 - **Kader Zarı:** her sefer bölümünde (31 bölüm) bir kez seçimli olay gelir: güvenli yolu seçersin (küçük ama kesin kazanç) ya da tek zar atarsın. Zar tutarsa baskın, kuşatma, elçi, takviye ya da kervan büyük kazanç getirir; tutmazsa kayıp verirsin.
 
+### 1.13.0
+- **3 yeni bölüm:** 1048 Pasinler (Selçuklu dizisinin başı), 1147 İkinci Haçlı Seferi, 1223 Kalka (Moğol dizisinin başı). Seferlerde artık 34 bölüm var.
+- **Moral:** seferde üst üste 3 savaş kazanan ordu coşar; sonraki saldırılarında en yüksek zarına +1. İlk yenilgide moral söner.
+- **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
+- **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
+
 ### Sırada ne var?
 - Sadakat ve isyan: geniş bir imparatorluğu elde tutmak da strateji olsun
 - Android sürümü
