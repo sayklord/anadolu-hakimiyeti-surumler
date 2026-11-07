@@ -221,6 +221,12 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.14.1
+
+- **Seferler artık bir tarih çizgisinde seçiliyor:** ortada yatay zaman ekseni, eksenin bir üstünde bir altında sefer dizileri büyük kapak resimleriyle. Kaydırdıkça zaman ilerler, ileri yüzyılların dizileri belirir; üstte ortadaki yıl ve çağ yazar.
+- Kartın üstüne gelince arkada o dizinin resmi belirir, eksende dizinin süresi ve bölümleri yanar. Karta basınca kapak resmi büyüyüp bütün ekranı kaplar, o dizinin görevleri açılır.
+- Görev ekranında üstte TARİHSEL ÇİZGİ, zamanda ÖNCEKİ ve SONRAKİ dizi düğmeleri.
+
 ### 1.14.0
 - **12 yeni sefer dizisi, 45 yeni bölüm** (her biri kendi resmiyle): Emevî Fetihleri, Charlemagne, Vikingler, Bizans ve Bulgar Savaşları, Normanlar, Barbarossa ve Kutsal Roma, Memlûk Sultanlığı, Baltık Haçlıları, Yüz Yıl Savaşları, Altın Orda, Akkoyunlu ve Karakoyunlu, Kırım Hanlığı. Artık 17 dizide 79 bölüm var (636 Yermük'ten 1919'a).
 - **Tarihsel Çizgi:** yatay, kaydırılan bir zaman çizgisi: her sefer dizisi kendi renginde bir şerit, bölümler yıllarına göre madalyonlar; üstte çağ bantlı yıl cetveli ve bütün çizginin özeti, altta seçilen bölümün kartı ve SEFERİ AÇ. Tekerlek, sürükleme ve ok tuşlarıyla kayar.
