@@ -221,6 +221,12 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.15.0
+
+- **Seferlerde üç oyun biçimi:** bölüm ekranında NORMAL, ZOR ve ÖBÜR TARAF düğmeleri; her birinin yıldızı ayrı sayılır.
+- **Zor:** rakipler %40 fazla askerle başlar, %25 fazla takviye alır ve daha usta oynar. Zor zafer normal yıldızı da sayar.
+- **Öbür taraf:** bölümü kazanınca aynı savaşı karşı taraftan oynayabilirsin (İstanbul'un Fethi'nde Bizans, Malazgirt'te Bizans...). Asıl bölüm saldırıysa bu kez dayanırsın, dayanmaysa bu kez hedeflerden birini alırsın.
+
 ### 1.14.1
 
 - **Seferler artık bir tarih çizgisinde seçiliyor:** ortada yatay zaman ekseni, eksenin bir üstünde bir altında sefer dizileri büyük kapak resimleriyle. Kaydırdıkça zaman ilerler, ileri yüzyılların dizileri belirir; üstte ortadaki yıl ve çağ yazar.
