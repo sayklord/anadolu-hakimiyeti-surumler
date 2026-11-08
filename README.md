@@ -221,6 +221,17 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.17.0
+
+- **Kartaca Savaşları dizisi** (MÖ 264-149): Sicilya, Hannibal Alpleri Aşıyor, Kannai, Zama, Kartaca'nın Sonu.
+- **Roma ikiye ayrıldı:** Roma Cumhuriyeti ve Roma İmparatorluğu ayrı diziler; 6 yeni Roma bölümü (Mithridates, Farsalos, Britanya, Part Seferi, Palmira, Edirne).
+- **Kısa dizilere 16 yeni bölüm:** Tortona, Roma ve Sıtma, Durbe, Malbork, Vorskla, Ugra, Eleşkirt, Şerur, Salado, Batu'nun Rus Seferi, Kartaca'nın Alınışı, Barselona, Pliska, Civitate, Castillon, Hacı Tarhan. Toplam 22 dizi, 120 bölüm.
+- **Yol Ayrımı:** 58 bölümde sefere çıkmadan önce iki yol arasında karar veriyorsun (ordu bir arada mı, sınırlar mı; rakibi zayıflat mı, yanına çek mi...).
+- **Bölüm kapakları:** 73 bölümün kendi resmi var; sefer ekranında arkada durur, künyede bölüm adı ve yılı yazar.
+- **Dizi sonu tarih kartı:** dizi bitince birleşik harita, ne değiştiği ve bölümlerin özeti; sefer ekranında TARİH KARTI düğmesi.
+- Bölüm listesinde MÖ / MS yılları iki satırda; yıl ile bölüm adı artık üst üste binmiyor.
+- **Harita:** Ak beylik tebeşir beyazı, bej araziden ve tarafsız şehirlerden ayrılıyor; beylik sınırı koyu mürekkep, şehir sınırı ince, eyalet sınırı kendi renginde. SİYASİ / ARAZİ / EYALET modları bütün haritalarda denendi.
+
 ### 1.16.0
 
 - **Üç yeni sefer dizisi, 15 bölüm:**
