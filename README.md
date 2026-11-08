@@ -221,6 +221,15 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.16.0
+
+- **Üç yeni sefer dizisi, 15 bölüm:**
+  - **Roma İmparatorluğu** (MÖ 202 - MS 106): Zama, Alesia, Aktion, Teutoburg, Dakya.
+  - **Hunlar** (375-452): Gotların Yıkılışı, Büyük Hun Akını, Attila'nın Balkan Seferi, Katalaun, İtalya Seferi.
+  - **Doğu Roma** (533-627): Vandal Savaşı, Ravenna, Spania, Konstantiniye Kuşatması, Ninova.
+- Her bölümde tarihî olaylar, yan görev, "Tarihte ne oldu?" notu ve Zor / Öbür taraf biçimleri var. Haritada Orta Çağ şehir adları kalır, eski adlar metinde verilir (Kartaca, haritada Tunus).
+- **Tarihsel Çizgi** artık milattan önceye uzanıyor: MÖ yılları ve yeni ANTİK ÇAĞ bandı.
+
 ### 1.15.0
 
 - **Seferlerde üç oyun biçimi:** bölüm ekranında NORMAL, ZOR ve ÖBÜR TARAF düğmeleri; her birinin yıldızı ayrı sayılır.
