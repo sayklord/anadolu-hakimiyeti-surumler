@@ -221,6 +221,25 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.19.0
+
+- **Sonraki aşama onayı:** SALDIRIYI BİTİR ve TURU BİTİR'e basınca "Sonraki aşama" penceresi çıkar (kırmızı ✗ / yeşil ✓, Enter/Esc). Ayarlardan kapatılabilir.
+- **Set takası ekranı:** takasa koyacağın 3 kartı kendin seçersin; geçerli set olunca kaç piyade alacağın yazar. OTOMATİK SEÇ de var.
+- **Soru süresi 10 saniye** ve soru ekranının en üstünde, tur saatiyle aynı görünüşte **süre çubuğu**.
+- **Sorular zorlaştı:** kolay soru yalnız öğreticide; büyük şehirlere çoğunlukla zor soru. 156 yeni zor soru (Matematik ve Kültür dahil).
+- **Jokerler pahalı:** taban fiyat iki katı, her alışta o jokerin fiyatı artar ve turda en çok bir joker alınır.
+- **Savaşta üstteki asker sayıları** her zar atışında kayıplarla birlikte azalır.
+- **Asker dağıtımında OTOMATİK DAĞIT:** oyun başı askerleri bütün şehirlerine eşit dağıtır (tek adımda geri alınır).
+- **Saat tik-takı:** dağıtımın ve çevrim içi turun son 15 saniyesinde, sorunun son 5 saniyesinde eski uyarı sesi yerine saat sesi.
+- **Ak (beyaz) taraf** haritada daha belirgin.
+- **Üst üste binen yazılar düzeldi:** harita başlık kartuşu süslerin üstüne binmiyor; yan yana eyalet adları (Doğu Anadolu ile Kafkasya gibi) birbirine girince biri biraz küçülüyor; soru ekranında süre çubuğu başlığın değil sorunun altında, ipucu kutusu şıkların üstüne binmiyor; set takası ve sefer ekranı yazıları ayrıldı.
+- Sonraki aşama penceresi ve süre çubuğu yenilendi: altın çerçeve, büyük saniye levhası, son 5 saniyede kırmızı nabız.
+
+### 1.18.0
+
+- **27 bölüme yeni kapak resmi:** Mercidabık, İskenderiye Baskını, Prusya Seferi, Crécy, Poitiers, Orléans, Terek, Çapakçur, Karabağ, Kefe, Moskova Yangını, Dakya, Vandal Savaşı, Ravenna, Spania, Ninova, Hun seferleri ve dahası. Artık 120 bölümden 100'ünün kendi resmi var.
+- Arka planda: seferlerin zorluğunu ölçen otomatik denge testi (bölümleri yapay zekâya baştan sona oynatıp sonucu yazıyor). İlk sonuçlara göre denge ayarları sonraki sürümde.
+
 ### 1.17.0
 
 - **Kartaca Savaşları dizisi** (MÖ 264-149): Sicilya, Hannibal Alpleri Aşıyor, Kannai, Zama, Kartaca'nın Sonu.
