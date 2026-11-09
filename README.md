@@ -221,6 +221,14 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.20.0
+
+- **Soru salonu 3B:** savaş sorusu artık kandillerle aydınlanan, kemerli, ay ışıklı bir salonda sorulur; zar aşamasında salon kararıp haritaya geçilir.
+- **Jokerler masada:** 50:50 bir terazi, +10 SN bir kum saati, 2. ŞANS bir tespih. Eşyaya tıklayınca joker kullanılır: terazi sallanır, kum saati döner, tespih havalanır. Kullanılan eşya kararır.
+- **Aynı soru iki kez çıkmaz:** aynı bilgisayarda savunan, saldıranın sorusunu görmüş olduğu için artık kendi sorusunu alır. Bir oyunda sorulan üretilmiş soru o oyunda tekrar sorulmaz.
+- **Kolay sorular azaldı:** saldırılan şehre özel sorularda cevap artık ekranda yazan şehrin adı değil; orta ve zor savaşta kolay üretilmiş soru gelmez.
+- Süre penceresindeki küçük altın baklava saniye levhasına değmiyor.
+
 ### 1.19.2
 
 - **Tek süre çubuğu:** soru penceresinin üstündeki ikinci SÜRE çubuğu kalktı; süre yalnız alttaki çerçeveli pencerede.
