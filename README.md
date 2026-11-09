@@ -221,6 +221,11 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.19.2
+
+- **Tek süre çubuğu:** soru penceresinin üstündeki ikinci SÜRE çubuğu kalktı; süre yalnız alttaki çerçeveli pencerede.
+- **Sancaklar büyüdü:** soru ekranının iki yanındaki sancaklar daha büyük; altın kenarlı kumaş, direkte yaldızlı çapraz çubuk, amblem halkası ve büyük şehir/asker levhası.
+
 ### 1.19.1
 
 - **Soru penceresinin altındaki süre çubuğu çerçevelendi:** altın kenarlı koyu pencere, kum saati altın halkalı madalyonda, çentikli iz ve sağda büyük saniye levhası. Düello ekranında da aynı.
