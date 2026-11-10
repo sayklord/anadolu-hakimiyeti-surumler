@@ -221,6 +221,13 @@ Yeni büyük harita: AKDENİZ • 1200. Britanya'dan Mısır'a, Endülüs'ten Ka
 - **Kuşatma:** düşmeyen bir başkent kuşatılmış sayılır; o tur ve sonraki tur surları gedik verir, başkent kalesinin +1'i kalkar.
 - **Altın madalya:** bölümü 3 yıldızla ve tur sınırının yarısında (dayanma bölümünde hiç şehir kaybetmeden) bitirene.
 
+### 1.21.0
+
+- **Mektupla Fetih (sıra tabanlı çevrim içi):** ÇOK OYUNCULU > MEKTUPLA FETİH. Herkesin aynı anda bağlı olması gerekmez. Kuran oyuncu katılım odası açar, arkadaşları davet koduyla bir kez girer, BAŞLAT'la oyun kurulur. Sırası gelen oyuncu oyunu istediği zaman açar ve turunu oynar; tur bitince sıra bir sonraki oyuncuya geçer.
+- **Oyunlarım:** sürmekte olan mektup oyunları tek listede durur; sıra sendeyse yeşil yanar, ana menüde de haber verilir. Oyun bitince SON HÂLİ'ne bakılabilir.
+- Sırası olmayan oyuncunun şehirlerini o tur nöbetçi (yapay zekâ) savunur. Botlar da eklenebilir.
+- Oyunlar bu bilgisayardaki oyuncu kimliğine bağlıdır; mektup oyunu yerel kayıt yuvalarına yazmaz.
+
 ### 1.20.0
 
 - **Soru salonu 3B:** savaş sorusu artık kandillerle aydınlanan, kemerli, ay ışıklı bir salonda sorulur; zar aşamasında salon kararıp haritaya geçilir.
